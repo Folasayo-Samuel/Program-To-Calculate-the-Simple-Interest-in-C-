@@ -1,0 +1,15 @@
+/home/saint/Desktop/CalSimpleInterest/bin/Debug/net6.0/CalSimpleInterest
+/home/saint/Desktop/CalSimpleInterest/bin/Debug/net6.0/CalSimpleInterest.deps.json
+/home/saint/Desktop/CalSimpleInterest/bin/Debug/net6.0/CalSimpleInterest.runtimeconfig.json
+/home/saint/Desktop/CalSimpleInterest/bin/Debug/net6.0/CalSimpleInterest.dll
+/home/saint/Desktop/CalSimpleInterest/bin/Debug/net6.0/CalSimpleInterest.pdb
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/CalSimpleInterest.csproj.AssemblyReference.cache
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/CalSimpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/CalSimpleInterest.AssemblyInfoInputs.cache
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/CalSimpleInterest.AssemblyInfo.cs
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/CalSimpleInterest.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/CalSimpleInterest.dll
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/refint/CalSimpleInterest.dll
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/CalSimpleInterest.pdb
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/CalSimpleInterest.genruntimeconfig.cache
+/home/saint/Desktop/CalSimpleInterest/obj/Debug/net6.0/ref/CalSimpleInterest.dll
